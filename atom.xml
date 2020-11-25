@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fixjob.github.io</id>
     <title>一起创世界</title>
-    <updated>2020-11-25T06:30:42.259Z</updated>
+    <updated>2020-11-25T06:34:58.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fixjob.github.io"/>
     <link rel="self" href="https://fixjob.github.io/atom.xml"/>
@@ -36,27 +36,27 @@
 <p>同时，左侧的OpenGL ES 3.0性能更好一些，可以在创建的时候选择他，如果后续想要一直到web或者性能较差的设备上时，可以随时在编辑器中更改</p>
 </blockquote>
 <h2 id="界面操作">界面操作</h2>
-<img src="https://i.loli.net/2020/11/25/pi9eo4xnVmXjU72.png" alt="quicker_53c91d8a-4983-40a8-b404-5295f3950679.png" style="zoom:80%;" />
+<img src="https://i.loli.net/2020/11/25/pi9eo4xnVmXjU72.png" alt="quicker_53c91d8a-4983-40a8-b404-5295f3950679.png" style="zoom:70%;" />
 <h4 id="1-菜单栏">1. 菜单栏</h4>
 <blockquote>
 <p>菜单栏可以进行场景、工程、编辑器等方面的设置。比如Scene选项中可以新建场景和从已有场景继承，继承的这个概念是指可以将已有的场景（节点）作为模版后再次修改，后续如果模版场景新增了功能也能继续使用。</p>
 </blockquote>
-<img src="https://i.loli.net/2020/11/25/5OzbcBNnukMoAsh.png" alt="quicker_3fb6966b-2755-4f4d-b046-5aa05d25b09b.png" style="zoom: 50%;" />
+<img src="https://i.loli.net/2020/11/25/5OzbcBNnukMoAsh.png" alt="quicker_3fb6966b-2755-4f4d-b046-5aa05d25b09b.png" style="zoom: 40%;" />
 <blockquote>
 <p>Project选项中Project Setting可以设置当前工程的一些参数（比如说分辨率和按键映射等等），只对当前工程有效。Version Control版本管理可以在安装了版本控制的插件后进行使用，版本控制是十分重要的，可以记录下不同阶段的源文件历史，可以在后续debug或者版本回退时起到很大的作用。Export导出可执行文件，可以将工程导出为各个平台可执行的文件（比如说Windows、Mac、Linux或者移动端），导出时需要安装导出模版。</p>
 </blockquote>
-<img src="https://i.loli.net/2020/11/25/xHWb5d8e2ZUMjPg.png" alt="quicker_1aeb360e-8d97-45be-b8d1-3792b52d8a6b.png" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/11/25/xHWb5d8e2ZUMjPg.png" alt="quicker_1aeb360e-8d97-45be-b8d1-3792b52d8a6b.png" style="zoom:40%;" />
 <blockquote>
 <p>Debug选项如其名，可以在调试程序逻辑时使用，比如说可以将碰撞盒的矩形框显示出来，用来查看碰撞相关的逻辑是否正确</p>
 </blockquote>
-<img src="https://i.loli.net/2020/11/25/FjoqBS3c6d2lz5w.png" alt="quicker_e8205fdb-793e-4dca-8c52-11350e2c9eec.png" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/11/25/FjoqBS3c6d2lz5w.png" alt="quicker_e8205fdb-793e-4dca-8c52-11350e2c9eec.png" style="zoom:40%;" />
 <blockquote>
 <p>Editor选项可以设置当前编辑器的显示和性能等参数，而Editor Layout可以保存当前布局和恢复已保存布局</p>
 </blockquote>
-<img src="https://i.loli.net/2020/11/25/h1wzcMolXCtnabD.png" alt="quicker_05eccb95-c6c9-4dc4-a79f-932dc78766e9.png" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/11/25/h1wzcMolXCtnabD.png" alt="quicker_05eccb95-c6c9-4dc4-a79f-932dc78766e9.png" style="zoom:40%;" />
 <blockquote>
 <p>最后的Help可以前往推荐的文档和答疑社区，关于godot的讨论氛围还是很不错的</p>
 </blockquote>
-<img src="https://i.loli.net/2020/11/25/KcZrMRDEje4x91Q.png" alt="quicker_42ee9b61-c6c8-47e6-b918-8081a6a99667.png" style="zoom: 80%;" />]]></content>
+<img src="https://i.loli.net/2020/11/25/KcZrMRDEje4x91Q.png" alt="quicker_42ee9b61-c6c8-47e6-b918-8081a6a99667.png" style="zoom: 70%;" />]]></content>
     </entry>
 </feed>
