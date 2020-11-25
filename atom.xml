@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fixjob.github.io</id>
     <title>一起创世界</title>
-    <updated>2020-11-25T06:34:58.534Z</updated>
+    <updated>2020-11-25T07:36:48.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fixjob.github.io"/>
     <link rel="self" href="https://fixjob.github.io/atom.xml"/>
@@ -37,7 +37,7 @@
 </blockquote>
 <h2 id="界面操作">界面操作</h2>
 <img src="https://i.loli.net/2020/11/25/pi9eo4xnVmXjU72.png" alt="quicker_53c91d8a-4983-40a8-b404-5295f3950679.png" style="zoom:70%;" />
-<h4 id="1-菜单栏">1. 菜单栏</h4>
+<h3 id="1-菜单栏">① 菜单栏</h3>
 <blockquote>
 <p>菜单栏可以进行场景、工程、编辑器等方面的设置。比如Scene选项中可以新建场景和从已有场景继承，继承的这个概念是指可以将已有的场景（节点）作为模版后再次修改，后续如果模版场景新增了功能也能继续使用。</p>
 </blockquote>
