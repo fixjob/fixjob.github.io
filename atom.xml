@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fixjob.github.io</id>
     <title>一起创世界</title>
-    <updated>2020-12-03T07:50:02.511Z</updated>
+    <updated>2020-12-16T07:47:15.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fixjob.github.io"/>
     <link rel="self" href="https://fixjob.github.io/atom.xml"/>
@@ -11,16 +11,29 @@
     <icon>https://fixjob.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 一起创世界</rights>
     <entry>
+        <title type="html"><![CDATA[【Unity】简单的2D游戏]]></title>
+        <id>https://fixjob.github.io/post/AFwVs3B_B/</id>
+        <link href="https://fixjob.github.io/post/AFwVs3B_B/">
+        </link>
+        <updated>2020-12-16T07:32:27.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>测试在线加载Unity 2D游戏是否正常</p>
+</blockquote>
+<p><a href="https://create123.cn/简单2D游戏/index.html">简单2D游戏</a></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【Godot】绘制贝塞尔曲线]]></title>
         <id>https://fixjob.github.io/post/1sTrQqmMz/</id>
         <link href="https://fixjob.github.io/post/1sTrQqmMz/">
         </link>
         <updated>2020-12-01T09:07:53.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>本篇将要介绍如何在godot中绘制贝塞尔曲线</p>
+<p>本篇将要介绍如何在godot中绘制贝塞尔曲线，如果想要在网页中实时预览Godot生成的效果，可以在PC上使用最新的Chrome浏览器打开当前页面</p>
 </blockquote>
 <figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/12/01/yLqId93bSGBoRxw.gif" alt="简单绘制出的贝塞尔曲线.gif" loading="lazy"></figure>
 <p><object style="border:0px" type="text/x-scriptlet" data="https://create123.cn/贝塞尔曲线/贝塞尔曲线.html" width=100% height=40%></object></p>
+<h3 id="什么是贝塞尔曲线">什么是贝塞尔曲线</h3>
 ]]></content>
     </entry>
     <entry>
